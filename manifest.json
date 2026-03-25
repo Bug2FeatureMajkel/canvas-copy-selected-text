@@ -1,0 +1,11 @@
+{
+  "id": "canvas-copy-selected",
+  "name": "Canvas Copy Selected Text",
+  "version": "1.0.0",
+  "minAppVersion": "1.1.0",
+  "description": "Copy text content from selected canvas nodes to clipboard with configurable formatting options.",
+  "author": "Bug2FeatureMajkel",
+  "authorUrl": "https://github.com/Bug2FeatureMajkel",
+  "isDesktopOnly": false,
+  "license": "MIT"
+}

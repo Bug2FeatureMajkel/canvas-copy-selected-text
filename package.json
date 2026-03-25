@@ -1,0 +1,19 @@
+{
+  "name": "canvas-copy-selected-text",
+  "version": "1.0.0",
+  "description": "Copy text content from selected canvas nodes to clipboard",
+  "main": "main.js",
+  "author": "Bug2FeatureMajkel",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "obsidian": "latest",
+    "typescript": "^5.0.0",
+    "@types/node": "^16.0.0",
+    "esbuild": "0.17.3",
+    "builtin-modules": "3.3.0"
+  }
+}
