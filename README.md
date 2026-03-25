@@ -63,7 +63,7 @@ You can also click the **copy icon** in the ribbon (left sidebar) to copy select
 
 ## Support
 
-If you encounter any issues or have feature requests, please [open an issue](https://github.com/Bug2FeatureMajkel/canvas-copy-selected-text/issues) on GitHub.
+Code "provided as is"
 
 ## License
 
